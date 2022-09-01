@@ -1,0 +1,21 @@
+# alterando arquivo 
+
+git add .
+git commit -m "commit inicial"
+git branch --list
+
+# aparece 
+-----------------
+* master
+
+-----------------
+
+git branch develop
+git checkout develop
+
+git branch --list
+
+# aparece 
+---------------
+* develop
+  master
